@@ -2,6 +2,12 @@
 {
     background-color: #D0C6BA !important;
 }
+.bg-cream{
+    background-color: #E2B45F;
+}
+.bg-light-cream{
+    background-color: #FBE7B7;
+}
 .main-bg
 {
     height: 100vh;
@@ -56,8 +62,39 @@
     font-weight: 700;
     font-style: italic;
   }
+  .modal-dialog {
+    max-width: 90%;
+    margin: 1.75rem auto;
+}
 
+.modal-content {
+    height: 95vh;
+    border-radius: 0px;
+}
 
+.btn-close {
+    box-sizing: content-box;
+    width: 1em;
+    height: 1em;
+    padding: .25em .25em;
+    color: #ffffff;
+    background: black url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/%3e%3c/svg%3e") center / 1em auto no-repeat;
+    border: 0;
+    border-radius: .25rem;
+    opacity: .5;
+}
+.owl-nav{
+    display: none;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #ffffff;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #000000 !important;
+}
+.owl-theme .owl-dots .owl-dot span {
+    background: #ffffff !important;
+}
 .animation{
     -webkit-animation:spin 4s linear infinite;
     -moz-animation:spin 4s linear infinite;
