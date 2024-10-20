@@ -20,6 +20,7 @@
 <body class="bg-beige" style="height: 100vh;">
     @include('client.blog.modal')
     @include('client.media.modal')
+    @include('client.portfolio.modal-2')
     <div class="main-bg position animation" style="opacity: 0.7;z-index:-1;">
     </div>
     <img src="{{ asset("client/assets/robot.png") }}" alt="" style="position: fixed;bottom:0;right:0;opacity:0.7;">
@@ -29,7 +30,10 @@
                 <div>
                     <img src="{{ asset("client/assets/logo2.svg") }}" alt="">
                     <h5 class="ps-3 " style="line-height: 20px; text-transform: uppercase;font-weight:800">
-                        Independent <br> minority-owned
+                        Independent <br> minority-owned <br>
+                        <span class="" style="line-height: 20px; text-transform: uppercase;font-weight:800;cursor:pointer;" data-bs-toggle="modal" data-bs-target="#portfolio">
+                            PORTFOLIO
+                        </span>
                     </h5>
                 </div>
             </div>
@@ -38,7 +42,7 @@
             </div>
             <div class="d-flex justify-content-center align-items-center mt-3">
                 <a target="_blank" href="https://www.youtube.com/@skyspecsmediaco"><img src="{{ asset("client/assets/youtube.png") }}" alt="" style="width: 50px;height:40px" class="mx-2"></a>
-                <a target="_blank" href="{{ url("/compatibility-statement.pdf") }}"><img src="{{ asset("client/assets/compatibility.png") }}" alt="" style="width: 30px;height:40px" class="mx-2"></a>
+                {{-- <a target="_blank" href="{{ url("/compatibility-statement.pdf") }}"><img src="{{ asset("client/assets/compatibility.png") }}" alt="" style="width: 30px;height:40px" class="mx-2"></a> --}}
                 <a target="_blank" href="https://tiktok.com/@skyspecsmediaco?_t=8jLONH2hVYE&_r=1"><img src="{{ asset("client/assets/tiktok.png") }}" alt="" style="width: 30px;height:40px" class="mx-2"></a>
                 <a target="_blank" href="mailto:skyspecsproductions@gmail.com"><img src="{{ asset("client/assets/mail.png") }}" alt="" style="width: 40px;height:35px" class="mx-2"></a>
                 <a target="_blank" href="http://calendly.com/skyspecsproductions@gmail.com"><img src="{{ asset("client/assets/calendar.png") }}" alt="" style="width: 40px;height:40px" class="mx-2"></a>
