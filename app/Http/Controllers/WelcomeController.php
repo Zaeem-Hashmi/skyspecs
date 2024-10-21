@@ -10,4 +10,9 @@ class WelcomeController extends Controller
     {
         return view("client.index");
     }
+
+    public function blog()
+    {
+        return view('client.media.description');
+    }
 }

@@ -15,3 +15,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get("/",[WelcomeController::class,'index'])->name("index");
+Route::get("/media",[WelcomeController::class,'blog'])->name("blog");
