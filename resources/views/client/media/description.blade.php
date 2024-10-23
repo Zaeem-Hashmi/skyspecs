@@ -8,6 +8,7 @@
     {{-- bootstrap links --}}
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     {{-- fonts --}}
+    <link rel="stylesheet" href="{{ asset("client/css/style.css") }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
@@ -345,6 +346,113 @@
                 Looking ahead, the future of music streaming will likely see continued innovation and disruption. Blockchain technology, for example, could provide a way for artists to directly control and monetize their work without intermediaries. Additionally, as streaming services continue to expand globally, we may see a greater emphasis on local content and diverse musical genres. The music industry is at a crossroads, with streaming poised to play a pivotal role in shaping its future. As technology and consumer preferences evolve, the way we create, share, and enjoy music will continue to transform in exciting and unpredictable ways.
             </p>
         </div>
+        <div class="modal-body pt-3" style="background: linear-gradient(#B1B5B4 0%,#4D4F4F 100%)">
+            {{-- <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-indicators mb-0" style="top: -3rem">
+                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active bg-dark" aria-current="true" aria-label="Slide 1"></button>
+                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2" class="bg-dark"></button>
+                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3" class="bg-dark"></button>
+                </div>
+              </div> --}}
+
+                <div class="carousel-inner py-5">
+                  <div class="carousel-item active">
+                    <div class="row justify-content-center">
+                        <div class="bg-light mt-3 mx-3" style="width:23rem;height: 450px;">
+                            <img src="{{ asset("client/assets/media/media4.png") }}" width="100%" alt="" class="shadow mt-3">
+                            <a target="_blank" href="/media/#akademiks" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                              DJ Akademiks: The Most Influential Hip-Hop Media Personality?
+                            </a>
+                            <p class="" style="font-size: 12px;text-align:center;">
+                              DJ Akademiks has rapidly become one of the most influential voices in hip-hop media, transforming the way news and commentary are consumed in the genre. Known for breaking news, offering unfiltered opinions, and creating viral content
+                            </p>
+                        </div>
+                        <div class="bg-light mt-3 mx-3" style="width:23rem;height: 450px;">
+                            <img src="{{ asset("client/assets/media/media5.png") }}" width="100%" alt="" class="shadow mt-3">
+                            <a target="_blank" href="/media/#spain" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                              Will Spain Win the
+                              2026 World
+                              Cup?
+                            </a>
+                            <p class="" style="font-size: 12px;text-align:center;">
+                              As the 2026 World Cup approaches, Spain is once again a team to watch, with a blend of experienced veterans and emerging young talent that could take them deep into the tournament. The Spanish national team, known for their tiki-taka style of play, 
+                            </p>
+                        </div>
+                        <div class="bg-light mt-3 mx-3" style="width:23rem;height: 450px;">
+                            <img src="{{ asset("client/assets/media/media6.png") }}" width="100%" alt="" class="shadow mt-3">
+                            <a target="_blank" href="/media/#mbappé" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                              How Will Mbappé Fit Into Real Madrid’s Squad?
+                            </a>
+                            <p class="" style="font-size: 12px;text-align:center;">
+                              The potential transfer of Kylian Mbappé to Real Madrid has been one of the most talked-about stories in world football, and for good reason. Mbappé, already one of the best players in the world at just 25 years old, has the talent and ambition to lead Real Madrid into a new era of success.
+                            </p>
+                        </div>
+                        <div class="bg-light mt-3 mx-3" style="width:23rem;height: 450px;">
+                            <img src="{{ asset("client/assets/media/media7.png") }}" width="100%" alt="" class="shadow mt-3">
+                            <a target="_blank" href="/media/#celtics" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                              Who Will Challenge the Boston Celtics in the 2025 NBA Season?
+                            </a>
+                            <p class="" style="font-size: 12px;text-align:center;">
+                              The Boston Celtics have established themselves as one of the premier teams in the NBA, with a roster full of young talent and veteran leadership. Led by Jayson Tatum and Jaylen Brown, the Celtics have become a perennial contender in the Eastern Conference,
+                            </p>
+                        </div>
+
+                        <div class="bg-light mt-3 mx-3" style="width:23rem;height: 450px;">
+                            <img src="{{ asset("client/assets/media/media8.png") }}" width="100%" alt="" class="shadow mt-3">
+                            <a target="_blank" href="/media/#anthony" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                               Who Will Become the Face of the NBA: Ja Morant, Anthony Edwards, Luka Dončić, or Wemby
+                            </a>
+                            <p class="" style="font-size: 12px;text-align:center;">
+                              As the NBA transitions into a new era, the question of who will become the face of the league looms large. With LeBron James nearing the end of his illustrious career, the mantle of the NBA’s biggest star is up for grabs, and several young players are vying for the title.
+                            </p>
+                        </div>
+                        <div class="bg-light mt-3 mx-3" style="width:23rem;height: 450px;">
+                            <img src="{{ asset("client/assets/media/media9.png") }}" width="100%" alt="" class="shadow mt-3">
+                            <a target="_blank" href="/media/#cinematic" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                              The Greatest Cinematic Movies of All Time
+                            </a>
+                            <p class="" style="font-size: 12px;text-align:center;">
+                              DJ Akademiks has rapidly become one of the most influential voices in hip-hop media, transforming the way news and commentary are consumed in the genre. Known for breaking news, offering unfiltered opinions, and creating viral content
+                            </p>
+                        </div>
+                    </div>
+                  </div>
+                  {{-- <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="{{ asset("client/assets/media/blog2.png") }}" width="100%" alt="" class="shadow">
+                            <p class="fw-bold text-center text-uppercase mt-3" style="font-size: 13px">
+                                Going Live: The Explosive Rise of Live Streaming and Its Impact on Media
+                            </p>
+                            <p class="" style="font-size: 12px;text-align:center;">
+                                live streaming trends, Kai Cenat live streams, iShowSpeed popularity
+                            </p>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="{{ asset("client/assets/media/blog2.png") }}" width="100%" alt="" class="shadow">
+                            <p class="fw-bold text-center text-uppercase mt-3" style="font-size: 13px">
+                                Going Live: The Explosive Rise of Live Streaming and Its Impact on Media
+                            </p>
+                            <p class="" style="font-size: 12px;text-align:center;">
+                                live streaming trends, Kai Cenat live streams, iShowSpeed popularity
+                            </p>
+                        </div>
+                    </div>
+                  </div> --}}
+                </div>
+                {{-- <button class="carousel-control-prev align-items-start" style="top: -3rem;" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next align-items-start" style="top: -3rem;" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button> --}}
+          </div>
         <div class="container my-5" id="diversity">
             <img src="{{ asset("client/assets/media/media11.png") }}" alt="" width="100%" alt="" style="height: 500px;">
             <h2 class="mt-3">
@@ -454,5 +562,86 @@
             </p>
         </div>
     </section>
+    <section>
+        <div class="modal-body bg-cream">
+            <h3 class="modal-title text-center mt-3 mt-3 bg-light-cream mx-auto px-3 py-3" id="exampleModalLabel" style="line-height: 20px;width:320px;min-width:280px;font-weight:900;">POPULAR TOPICS</h3>
+            <div class="owl-carousel owl-theme px-3 mt-3">
+                <div class="bg-light p-3" style="height: 450px;">
+                    <img src="{{ asset("client/assets/media/media.png") }}" width="100%" alt="" class="shadow">
+                    <a target="_blank" href="/media/#kendrick" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                        Kendrick vs. Drake: A Hip-Hop Rivalry for the Ages
+                    </a>
+                    <p class="" style="font-size: 12px;text-align:center;">
+                        The historic rivalry between Kendrick Lamar and Drake has been one of the most compelling storylines in hip-hop over the past 2 decades. It all began with subliminal shots on tracks and grew into a full-fledged battle of artistry, with Kendrick's lyricism often seen
+                    </p>
+                </div>
+                <div class="bg-light p-3" style="height: 450px;">
+                    <img src="{{ asset("client/assets/media/media2.png") }}" width="100%" alt="" class="shadow">
+                    <a target="_blank" href="/media/#manchester" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                        Can Manchester City Make It Five in a Row?
+                    </a>
+                    <p class="" style="font-size: 12px;text-align:center;">
+                        Manchester City has dominated the Premier League in recent years, setting a new standard for excellence under the guidance of Pep Guardiola. With four consecutive titles already under their belt
+                    </p>
+                </div>
+                <div class="bg-light p-3" style="height: 450px;">
+                    <img src="{{ asset("client/assets/media/media3.png") }}" width="100%" alt="" class="shadow">
+                    <a target="_blank" href="/media/#lamine" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                        Kendrick vs. Drake: A Hip-Hop Rivalry for the Ages
+                    </a>
+                    <p class="" style="font-size: 12px;text-align:center;">
+                        Lamine Yamal is quickly becoming one of the most talked-about young talents in football, with his performances for Barcelona capturing the attention of fans and scouts alike.
+                    </p>
+                </div>
+                <div class="bg-light p-3" style="height: 450px;">
+                    <img src="{{ asset("client/assets/media/media13.png") }}" width="100%" alt="" class="shadow">
+                    <a target="_blank" href="/media/#williams" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                        Nico Williams to Barcelona?: Can Barcelona Challenge Madrid?
+                    </a>
+                    <p class="" style="font-size: 12px;text-align:center;">
+                        With rumors swirling about Nico Williams potentially joining Barcelona, the excitement among fans is palpable. Williams, known for his pace, dribbling, and technical ability, has been a standout performer for Athletic Bilbao and the Spanish national team.
+                    </p>
+                </div>
+                <div class="bg-light p-3" style="height: 450px;">
+                    <img src="{{ asset("client/assets/media/media14.png") }}" width="100%" alt="" class="shadow">
+                    <a target="_blank" href="/media/#champions" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                        Who Will Win the 2025 Champions League?
+                    </a>
+                    <p class="" style="font-size: 12px;text-align:center;">
+                        The 2025 Champions League is shaping up to be one of the most competitive in recent memory, with several teams vying for European glory. Real Madrid, the defending champions, remain favorites. However, they’ll face stiff competition from the likes of Manchester City
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
 </body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script>
+$('.owl-carousel').owlCarousel({
+            loop: true,
+            items: 1,
+            margin:20,
+            autoplay: true,
+            autoplayTimeout: 2000,
+            autoplayHoverPause: true,
+            dots: true,
+            responsive: {
+                0: {
+                    items: 1
+                    , nav: true
+                }
+                , 600: {
+                    items: 2
+                    , nav: false
+                }
+                , 1000: {
+                    items: 3
+                    , nav: true
+                    , loop: false
+                }
+            }
+        })
+</script>
 </html>
