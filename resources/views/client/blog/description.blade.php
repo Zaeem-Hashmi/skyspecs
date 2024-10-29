@@ -15,6 +15,10 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css" rel="stylesheet" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
+    <link href="https://skyspecsmediaco.com/client/assets/logo.png"
+        rel="shortcut icon" type="image/x-icon" />
+    <link href="https://skyspecsmediaco.com/client/assets/logo.png"
+        rel="apple-touch-icon" />
 </head>
 <body>
     <section class="header pb-3" style="position: fixed;top:0px;width:100%;background:white;">
