@@ -464,7 +464,7 @@
                     <div class="row justify-content-center">
                         <div class="bg-light mt-3 mx-3" style="width:23rem;height: 450px;">
                             <img src="{{ asset("client/assets/media/media4.png") }}" width="100%" alt="" class="shadow mt-3">
-                            <a target="_blank" href="/media/#akademiks" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                            <a target="" href="/media/#akademiks" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                                 DJ Akademiks: The Most Influential Hip-Hop Media Personality?
                             </a>
                             <p class="" style="font-size: 12px;text-align:center;">
@@ -473,7 +473,7 @@
                         </div>
                         <div class="bg-light mt-3 mx-3" style="width:23rem;height: 450px;">
                             <img src="{{ asset("client/assets/media/media5.png") }}" width="100%" alt="" class="shadow mt-3">
-                            <a target="_blank" href="/media/#spain" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                            <a target="" href="/media/#spain" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                                 Will Spain Win the
                                 2026 World
                                 Cup?
@@ -484,7 +484,7 @@
                         </div>
                         <div class="bg-light mt-3 mx-3" style="width:23rem;height: 450px;">
                             <img src="{{ asset("client/assets/media/media6.png") }}" width="100%" alt="" class="shadow mt-3">
-                            <a target="_blank" href="/media/#mbappé" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                            <a target="" href="/media/#mbappé" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                                 How Will Mbappé Fit Into Real Madrid’s Squad?
                             </a>
                             <p class="" style="font-size: 12px;text-align:center;">
@@ -493,7 +493,7 @@
                         </div>
                         <div class="bg-light mt-3 mx-3" style="width:23rem;height: 450px;">
                             <img src="{{ asset("client/assets/media/media7.png") }}" width="100%" alt="" class="shadow mt-3">
-                            <a target="_blank" href="/media/#celtics" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                            <a target="" href="/media/#celtics" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                                 Who Will Challenge the Boston Celtics in the 2025 NBA Season?
                             </a>
                             <p class="" style="font-size: 12px;text-align:center;">
@@ -503,7 +503,7 @@
 
                         <div class="bg-light mt-3 mx-3" style="width:23rem;height: 450px;">
                             <img src="{{ asset("client/assets/media/media8.png") }}" width="100%" alt="" class="shadow mt-3">
-                            <a target="_blank" href="/media/#anthony" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                            <a target="" href="/media/#anthony" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                                  Who Will Become the Face of the NBA: Ja Morant, Anthony Edwards, Luka Dončić, or Wemby
                             </a>
                             <p class="" style="font-size: 12px;text-align:center;">
@@ -512,7 +512,7 @@
                         </div>
                         <div class="bg-light mt-3 mx-3" style="width:23rem;height: 450px;">
                             <img src="{{ asset("client/assets/media/media9.png") }}" width="100%" alt="" class="shadow mt-3">
-                            <a target="_blank" href="/media/#cinematic" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                            <a target="" href="/media/#cinematic" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                                 The Greatest Cinematic Movies of All Time
                             </a>
                             <p class="" style="font-size: 12px;text-align:center;">
@@ -704,7 +704,7 @@
             <div class="owl-carousel owl-theme px-3 mt-3">
                 <div class="bg-light p-3" style="height: 450px;">
                     <img src="{{ asset("client/assets/media/media.png") }}" width="100%" alt="" class="shadow">
-                    <a target="_blank" href="/media/#kendrick" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                    <a target="" href="/media/#kendrick" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                         Kendrick vs. Drake: A Hip-Hop Rivalry for the Ages
                     </a>
                     <p class="" style="font-size: 12px;text-align:center;">
@@ -713,7 +713,7 @@
                 </div>
                 <div class="bg-light p-3" style="height: 450px;">
                     <img src="{{ asset("client/assets/media/media2.png") }}" width="100%" alt="" class="shadow">
-                    <a target="_blank" href="/media/#manchester" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                    <a target="" href="/media/#manchester" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                         Can Manchester City Make It Five in a Row?
                     </a>
                     <p class="" style="font-size: 12px;text-align:center;">
@@ -722,7 +722,7 @@
                 </div>
                 <div class="bg-light p-3" style="height: 450px;">
                     <img src="{{ asset("client/assets/media/media3.png") }}" width="100%" alt="" class="shadow">
-                    <a target="_blank" href="/media/#lamine" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                    <a target="" href="/media/#lamine" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                         Kendrick vs. Drake: A Hip-Hop Rivalry for the Ages
                     </a>
                     <p class="" style="font-size: 12px;text-align:center;">
@@ -731,7 +731,7 @@
                 </div>
                 <div class="bg-light p-3" style="height: 450px;">
                     <img src="{{ asset("client/assets/media/media13.png") }}" width="100%" alt="" class="shadow">
-                    <a target="_blank" href="/media/#williams" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                    <a target="" href="/media/#williams" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                         Nico Williams to Barcelona?: Can Barcelona Challenge Madrid?
                     </a>
                     <p class="" style="font-size: 12px;text-align:center;">
@@ -740,7 +740,7 @@
                 </div>
                 <div class="bg-light p-3" style="height: 450px;">
                     <img src="{{ asset("client/assets/media/media14.png") }}" width="100%" alt="" class="shadow">
-                    <a target="_blank" href="/media/#champions" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                    <a target="" href="/media/#champions" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                         Who Will Win the 2025 Champions League?
                     </a>
                     <p class="" style="font-size: 12px;text-align:center;">

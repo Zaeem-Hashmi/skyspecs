@@ -227,7 +227,7 @@
                     <div class="row justify-content-center">
                         <div class="bg-light mt-3 mx-3" style="width:23rem;">
                             <img src="{{ asset("client/assets/blog/blog5.png") }}" width="100%" alt="" class="shadow mt-3">
-                            <a target="_blank" href="/blog/#evolution" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                            <a target="" href="/blog/#evolution" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                                 The Power of Short-Form Content: TikTok and the Evolution of Video
                             </a>
                             <p class="" style="font-size: 12px;text-align:center;">
@@ -236,7 +236,7 @@
                         </div>
                         <div class="bg-light mt-3 mx-3" style="width:23rem;">
                             <img src="{{ asset("client/assets/blog/blog6.png") }}" width="100%" alt="" class="shadow mt-3">
-                            <a target="_blank" href="/blog/#creators" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                            <a target="" href="/blog/#creators" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                                 The Rise of User-Generated Content: Empowering Creators and Engaging Audiences
                             </a>
                             <p class="" style="font-size: 12px;text-align:center;">
@@ -245,7 +245,7 @@
                         </div>
                         <div class="bg-light mt-3 mx-3" style="width:23rem;">
                             <img src="{{ asset("client/assets/blog/blog7.png") }}" width="100%" alt="" class="shadow mt-3">
-                            <a target="_blank" href="/blog/#digital" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                            <a target="" href="/blog/#digital" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                                 Sustainability in Video Production: Eco-Friendly Practices for the Digital Age
                             </a>
                             <p class="" style="font-size: 12px;text-align:center;">
@@ -254,7 +254,7 @@
                         </div>
                         <div class="bg-light mt-3 mx-3" style="width:23rem;">
                             <img src="{{ asset("client/assets/blog/blog8.png") }}" width="100%" alt="" class="shadow mt-3">
-                            <a target="_blank" href="/blog/#strategies" class="d-block fw-bold text-center text-uppercase text-dark my-4"" style=" font-size: 13px">
+                            <a target="" href="/blog/#strategies" class="d-block fw-bold text-center text-uppercase text-dark my-4"" style=" font-size: 13px">
                                 Monetizing Video Content: Strategies for Success in the Digital Age
                             </a>
                             <p class="" style="font-size: 12px;text-align:center;">
@@ -264,7 +264,7 @@
 
                         <div class="bg-light mt-3 mx-3" style="width:23rem;">
                             <img src="{{ asset("client/assets/blog/blog9.png") }}" width="100%" alt="" class="shadow mt-3">
-                            <a target="_blank" href="/blog/#power" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                            <a target="" href="/blog/#power" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                                 Video Analytics: The Power of Data-Driven Content Creation
                             </a>
                             <p class="" style="font-size: 12px;text-align:center;">
@@ -273,7 +273,7 @@
                         </div>
                         <div class="bg-light mt-3 mx-3" style="width:23rem;">
                             <img src="{{ asset("client/assets/blog/blog10.png") }}" width="100%" alt="" class="shadow mt-3">
-                            <a target="_blank" href="/blog/#storytelling" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                            <a target="" href="/blog/#storytelling" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                                 The Evolution of Storytelling: How Video is Shaping Narrative in the Digital Age
                             </a>
                             <p class="" style="font-size: 12px;text-align:center;">
@@ -430,7 +430,7 @@
             <div class="owl-carousel owl-theme px-3 mt-3">
                 <div class="bg-light p-3">
                     <img src="{{ asset("client/assets/blog/blog1.png") }}" width="100%" alt="" class="shadow">
-                    <a target="_blank" href="/blog/#filmmaking" class="d-block fw-bold text-center text-uppercase text-dark" style="font-size: 13px">
+                    <a target="" href="/blog/#filmmaking" class="d-block fw-bold text-center text-uppercase text-dark" style="font-size: 13px">
                         The Future of Filmmaking: How AI and Machine Learning Are Revolutionizing Video Production
                     </a>
                     <p class="" style="font-size: 12px;text-align:center;">
@@ -439,7 +439,7 @@
                 </div>
                 <div class="bg-light p-3">
                     <img src="{{ asset("client/assets/blog/blog2.png") }}" width="100%" alt="" class="shadow">
-                    <a target="_blank" href="/blog/#explosive" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                    <a target="" href="/blog/#explosive" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                         Going Live: The Explosive Rise of Live Streaming and Its Impact on Media
                     </a>
                     <p class="" style="font-size: 12px;text-align:center;">
@@ -448,7 +448,7 @@
                 </div>
                 <div class="bg-light p-3">
                     <img src="{{ asset("client/assets/blog/blog3.png") }}" width="100%" alt="" class="shadow">
-                    <a target="_blank" href="/blog/#augmented" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                    <a target="" href="/blog/#augmented" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                         Virtual Reality (VR) and Augmented Reality (AR): Immersive Experiences in Video Production
                     </a>
                     <p class="" style="font-size: 12px;text-align:center;">
@@ -457,7 +457,7 @@
                 </div>
                 <div class="bg-light p-3">
                     <img src="{{ asset("client/assets/blog/blog4.png") }}" width="100%" alt="" class="shadow">
-                    <a target="_blank" href="/blog/#angle" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
+                    <a target="" href="/blog/#angle" class="d-block fw-bold text-center text-uppercase text-dark my-4" style="font-size: 13px">
                         Capturing Every Angle: The Rise of 360-Degree Videos
                     </a>
                     <p class="" style="font-size: 12px;text-align:center;">
